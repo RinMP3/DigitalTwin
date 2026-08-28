@@ -3,7 +3,7 @@ DigitalTwin
 </p>
 
 <p align="center">
-  <b>Core Micro-Benchmark & Silicon Intergrity Matrix</b>
+  <b>Core Micro-Benchmark & Silicon Integrity Matrix</b>
 </p>
 
 
