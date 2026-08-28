@@ -1,0 +1,10 @@
+{
+    "silicon_thresholds": {
+        "max_temp_delta_alu": 25.0,
+        "max_power_delta_alu": 100.0,
+        "min_tflops_alu": 4.5,
+        "max_temp_delta_tensor": 15.0,
+        "max_power_delta_tensor": 40.0,
+        "min_tflops_tensor": 2.0
+    }
+}
