@@ -80,10 +80,10 @@ python main.py
 ---
 
 > [!NOTE]
-> This Product was not sponsored by Nvidia or any other company.
+> This Project was not sponsored by Nvidia or any other company.
 
 > [!IMPORTANT]
-> This Product was made exclusively for Blackwell Chips.
+> This Project was made exclusively for Blackwell Chips.
 
 <details>
   <summary><b> Screenshots </b></summary>
